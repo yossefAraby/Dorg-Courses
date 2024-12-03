@@ -1,4 +1,4 @@
-![Logo Image](https://github.com/user-attachments/assets/05ed3dbc-df9f-4dcc-858e-8ffa2298a52a)
+ ![Logo Image](https://github.com/user-attachments/assets/3d2ffb28-a0e6-42a5-a9d4-b60aa72491d5)
 
 # --- **Dorg Courses** ---
 ## ITI Project Website Made by HTML & CSS
