@@ -12,6 +12,10 @@ Github
 https://github.com/yossefAraby/Dorg-Courses
 __________________
 
+Initial Design
+https://yossef.my.canva.site/dorg-courses#home
+__________________
+
 Team Members
   - محمد عبدالقادر عبدربه جمعة       58903              profile page // helped alot in project overall
   - هيثم عبد السلام عبد الفتاح السيد        51350        sign up page
