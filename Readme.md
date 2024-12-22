@@ -8,12 +8,16 @@
 Open Home to start
 __________________
 
-Github
-https://github.com/yossefAraby/Dorg-Courses
+Youtube
+https://youtu.be/rhLtfOhpfWM
 __________________
 
 Initial Design
 https://yossef.my.canva.site/dorg-courses#home
+__________________
+
+Github
+https://github.com/yossefAraby/Dorg-Courses
 __________________
 
 Team Members
